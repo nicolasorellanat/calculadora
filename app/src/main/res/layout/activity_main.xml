@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#686652"
+    android:background="#A89D7C"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -42,6 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="7"
             android:textSize="24sp" />
 
@@ -52,6 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="8"
             android:textSize="24sp" />
 
@@ -62,6 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="9"
             android:textSize="24sp" />
 
@@ -72,6 +75,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="X"
             android:textSize="24sp" />
 
@@ -120,6 +124,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="/"
             android:textSize="24sp" />
 
@@ -170,6 +175,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="+"
             android:textSize="24sp" />
     </LinearLayout>
@@ -207,6 +213,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="10dp"
             android:layout_weight="1"
+            android:backgroundTint="#A9E85F"
             android:text="-"
             android:textSize="24sp" />
 
